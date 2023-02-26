@@ -3,7 +3,7 @@ Proyecto en el que aplicamos una regresion lineal simple para permitirnos calcul
 Se realiza una busqueda independiente de datos en Google obteniendo un total de 2087 datapoints.
 
 
-Lenguaje R.
+Lenguaje:R.
 
 Puedes seguir el proceso en el siguiente Notebook;
 https://github.com/MairCaro/Calcular-Edad-por-Run/blob/main/Calculo%20de%20Edad%20con%20Run.ipynb
